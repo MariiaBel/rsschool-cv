@@ -25,9 +25,9 @@ I have been working as a html web maker since 2012. Learning js is the main goal
 
   Company                                     |  Time                           | Projects 
 --------------                                |  -----                          | ---------
-Webvork, CPA                                  |  March 2021 – present           | https://neologistics.it/,  https://it8.hepasanol.com/,  https://it13.prostatixultra.com/, https://de3.blackpearloriginal.com/,  https://it2.blackpearloriginal.com, https://it3.cystinorm.com/,  http://shop.idealisapp.com/  (WordPress + Woocommerce) 
+Webvork, CPA                                  |  March 2021 – present           | [neologistics](https://neologistics.it/),  [hepasanol](https://it8.hepasanol.com/),  [prostatixultra](https://it13.prostatixultra.com/), [de3.blackpearloriginal](https://de3.blackpearloriginal.com/),  [it2.blackpearloriginal](https://it2.blackpearloriginal.com), [cystinorm](https://it3.cystinorm.com/),  [shop.idealisapp](http://shop.idealisapp.com/)  (WordPress + Woocommerce) 
 Web  Developer, freelance                     |  November 2019 – March 2021     | [gpsoff](https://mariiabel.github.io/landing-gpsoff/build/), [garrett-metal-detector](https://mariiabel.github.io/garrett-metal-detector/build/),  [jug-ru-group-landing](https://mariiabel.github.io/jug-ru-group-landing/build/)
-Veeam Software, Internet Marketing Department |  November 2012 – November 2019  | maintenance of web resource in 14 languages (https://www.veeam.com/), Launching https://www.veeam.com/executive-blog/ (WordPress) 
+Veeam Software, Internet Marketing Department |  November 2012 – November 2019  | maintenance of web resource in 14 languages ([Veeam Software](https://www.veeam.com/)), Launching [Veeam Software Blog](https://www.veeam.com/executive-blog/) (WordPress) 
 
 ## Education
 
@@ -36,4 +36,4 @@ Veeam Software, Internet Marketing Department |  November 2012 – November 2019
 
 ## English (B2)
 * EnglishFirst (1 year)
-* SkyEng (now)
+* SkyEng (present)
